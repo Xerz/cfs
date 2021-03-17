@@ -1,3 +1,10 @@
+# Обновление (17 марта 2021)
+
+Слайды сегодняшней встречи находятся в файле [Slides1703.pdf](/Slides1703.pdf).  
+Запись встречи доступна [здесь](https://drive.google.com/drive/folders/1taKSfBNoPaUJXcw2Qox2k6pXsQdVxNDn).  
+Встречи в ближайшие две недели будут в Discord ([ссылка](https://discord.gg/q8tnrc33Hn)) по вторникам, четвергам и субботам в 18.30.  
+Темы встреч: [Natural number game](http://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/), [tutorials project/Mathematics in Lean](https://leanprover-community.github.io/learn.html)
+
 # Обновление (14 марта 2021)
 
 Первая встреча состоится в среду **17 марта в 18:30** в ИМ СО РАН с возможностью участвовать дистанционно через Zoom. Приглашаются все желающие. Подробности в телеграм и по почте.
